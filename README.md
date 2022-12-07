@@ -4,12 +4,20 @@
 1. Overview
     1. Compilers and executables
     2. Visual Studio environment
-    3. Console program overview
+    3. .NET Frameworks
+    4. Console program overview
 2. Programming Basics
     1. Data types
         1. Simple types
-        2. Lists and arrays
-        3. Enums
+        2. Enums
+        3. Lists and arrays
+        4. String manipulation
+            1. Understanding char and string
+            2. String properties (Chars, Length)
+            3. Comparing strings (==, string.Equals())
+            4. string.Contains()
+            5. string.Substring()
+            6. string.Format()
     2. Operators
         1. Arithmetic (+, -, *, /, %, ++, --)
         2. Relational (==, !=, >, >=, <, <=)
@@ -38,5 +46,10 @@
         2. Access specifiers
         3. Member variables
         4. Properties
+        5. Methods
     2. Working with objects
-    3. Static classes
+        1. Creating objects
+        2. Accessing variables, properties, and methods
+        3. Handling null
+        4. Static variables
+    4. Static classes
